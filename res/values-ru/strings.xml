@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profile">Профиль</string>
+    <string name="friends">Друзья</string>
+    <string name="pictures">Фотографии</string>
+    <string name="videos">Видеозаписи</string>
+    <string name="audios">Аудиозаписи</string>
+    <string name="messages">Сообщения</string>
+    <string name="communities">Сообщества</string>
+</resources>
